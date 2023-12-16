@@ -1,0 +1,30 @@
+.header-up {
+    font-size: larger;
+    background-color: rgb(192, 96, 28); 
+    padding: 100px;
+}
+.header-up h1{
+    margin-left: 270px;
+    font-size: 50px;
+}
+.navbar{
+    background-color: rgb(221, 139, 61);
+}
+
+.header-center{
+    display: flex;
+}
+
+.header-center h3{
+    color: rgb(12, 102, 12);
+    margin-left: 250px;
+    line-height: 20px;
+    padding-bottom: 200px;
+}
+.header-down{
+    margin-left: 100px;
+}
+.difference{
+    color: rgb(122, 32, 11); 
+}
+
